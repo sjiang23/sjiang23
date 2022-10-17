@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Senbao Jiang.
 - 👀 I’m a mathematician in industry. I am interested in solving real world problem by math, data science and machine learning. If time permitting, I am interested in harmonic analysis.
-- 🌱 I’m currently learning statistical learning and basic optimal transport.
+- 🌱 I’m currently learning statistical learning and Differential Geometry on Manifold.
 - 💞️ I’m looking to a career in data science.
 - 📫 How to reach me: email to sjiang23@hawk.iit.edu
 
